@@ -1,6 +1,6 @@
 # goruntu-isleme
 
-## Programında Bulunan Görüntü İşleme Teknikleri:
+## Programda Bulunan Görüntü İşleme Teknikleri:
 
 1. RGB Resmi Griton Resme Dönüştürme
 2. Resmin Negatifini Alma
